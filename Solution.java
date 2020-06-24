@@ -1,13 +1,3 @@
-/*
- * @author Natasha Sharma
- * Basic Algorithms
- * Professor Victor Shoup
- * Fall 2018
- * Programming Assignment 2: Hijacking Fees
- * Hacker Rank
- * https://www.hackerrank.com/basic-algorithms-fall-2018-pa2
- */
-package ba2;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
